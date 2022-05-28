@@ -46,8 +46,8 @@ Atendees on the other hand can view all the events near them & register for them
     <li>
       <a href="#navigating-through">Navigating Through</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Organizers">Organizers</a></li>
+        <li><a href="#Atendees">Atendees</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
