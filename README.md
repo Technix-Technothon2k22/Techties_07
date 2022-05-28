@@ -154,9 +154,25 @@ Features of the page
 <br/>
   <img src="Each-Event-details.png" alt="main"/><br><br>
 ```
-4. Generation of QR code for each atendee
 
-On clicking on the info icon against each atendee, the atendee details, & a scanable QR code is generated
+
+### Atendees
+
+1. Registration form
+
+Upon Signing-In, atendees are taken to a registration form to register for an event
+
+Features of the page:
+
+* drop down to select the event
+* attachment of ID proof
+
+<br/>
+  <img src="registrationForm.png" alt="main"/><br><br>
+
+2. Generation of QR code for each atendee
+
+on submitting the registration form, the attendees will generate the QR code which will be needed for entry to the event
 
 <br/>
   <img src="QRCodeGenerator.png" alt="main"/><br><br>
@@ -165,24 +181,6 @@ On clicking on the info icon against each atendee, the atendee details, & a scan
   
 <br/>
   <img src="QRReading.jpeg" alt="main"/><br><br>
-
-### Atendees
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
