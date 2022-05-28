@@ -130,9 +130,14 @@ Features of the page:
 * View details of each event on click
 
 <br/>
-  <img src="Event-list.png" alt="main"/><br><br>
+  <img src="https://github.com/Technix-Technothon2k22/Techties_07/blob/main/Event-List.png" alt="main"/><br><br>
 
 2. Creating a new event
+
+on clicking "create new event"
+
+Features of the page
+*
 
 <br/>
   <img src="CreateEventForm.jpg" alt="main"/><br><br>
