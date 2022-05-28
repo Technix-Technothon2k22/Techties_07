@@ -6,7 +6,7 @@ Covid 19 is here to stay but the number of offline events being organized are in
 <!-- PROJECT LOGO -->
 
 <p align="center">
-<img src="connectnext.png" alt="Logo" width="250" height="80">
+<img src="connectnext.png" alt="Logo" width="80" height="80">
 <p align="center">
   
 
@@ -14,7 +14,7 @@ Covid 19 is here to stay but the number of offline events being organized are in
 
   <p align="center">
     Suited for a world post covid
-    
+     
     
     
   </p>
@@ -137,13 +137,22 @@ Features of the page:
 on clicking "create new event"
 
 Features of the page
-*
+* Easy to use template to create events
+
 
 <br/>
   <img src="CreateEventForm.jpg" alt="main"/><br><br>
 
+3. Viewing each event
 
+ The organizers can view all the details  of the event by clicking on each event 
+ 
+ Features of the page
+ * Event Details
+ * Atendee details
 
+<br/>
+  <img src="Each-Event-details.png" alt="main"/><br><br>
 ```
 
 ### Atendees
