@@ -1,35 +1,32 @@
 # Techties_07
 Covid 19 is here to stay but the number of offline events being organized are increasing. Organizers face issues with respect to crowding and unauthorized entry. Can you hack a solution to help the organizers?
 
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  
+
+  <h3 align="center">One Stop Event-Management Platform </h3>
+
+  <p align="center">
+    Suited for a world post covid
+    
+    <br />
+    
+  </p>
+</p>
+
 While covid-19 has had a negative impact on the events industry, event planners have shown great resilience and adaptibility in finding ways to host events in a post covid world. 
 Since events can prove to be major potential vectors for transmission of the virus, it is important to have systems in place to prevent overcrowding at these events & restrict unauthorized entry 
 
 # ConnectNext
 
 ConnectNext is a one stop event management platform for organizers & atendees in a world post covid.
+Organizers can create one or multiple events on the platform.
+Atendees on the other hand can view all the events near them & register for them. 
 
-Oranizers can "create an event" on the ConnectNext platform. Atendees can then register for events of their interest.
-Organizers can set a "venue capacity" to restrict the form responses.
-Once an antendee registers for an event, they are sent a confirmation mail & a QR Code which is required for entry to the venue. Atendees are prompted to carry a valid ID
-The QR code had the individuals name encoded in it.
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  
-    <img src="ConnectNextlogo.PNG" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">One Stop Event-Management Platform </h3>
-
-  <p align="center">
-    Suited for a world post covid
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    
-  </p>
-</p>
 
 
 
@@ -40,11 +37,12 @@ The QR code had the individuals name encoded in it.
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#features">Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#navigating-through">Navigating Through</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -64,43 +62,84 @@ The QR code had the individuals name encoded in it.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Oranizers can "create an event" on the ConnectNext platform. Atendees can then register for events of their interest.
+Organizers can set a "venue capacity" to restrict the form responses & prevent overcrowding.
+Once an antendee registers for an event, they are sent a confirmation mail & a QR Code which is required for entry to the venue. Atendees are prompted to carry a valid ID
+The QR code has the individuals name & details encoded in it & can be read using any basic QR code scanner.
+This simple method can be used to verify people at the time of entry & prevent unauthorized entry.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Advantages of the platform:
+* Prevent overcrowding / crowd-control
+* Prevents unauthorized entry
+* Organizers can easily create multiple events
+* allows organizers keep track of responses
+* Allows for Direct line of Communication between organizers and atendees
+* Atendees can reminded to follow required covid protocols
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+### Features
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Some of the major features of the site include
+* QR Code Generator : to verify atendees
+* Counter : to set crowd capacity
+* Auto Mail: Mail sent to users on sucessful registration & for QR code
+* Easy to use Template for event creation
+* Registration form
+* Sign in/ Sign up pages 
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+This project was built using a LAMP stack
+* HTML
+* CSS
+* JavaScript
+* JQuery
+* MySql
+* PHP
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Navigating through
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1. Landing Page
+<br/>
+  <img src="landing-page.png" alt="main"/><br><br>
+  
+2. Sign-in Page
+ <br/>
+  <img src="SignIn.png" alt="main"/><br><br>
+  
+3. Sign-up Page
+  <br/>
+  <img src="SignUp.png" alt="main"/><br><br>
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Organizers
 
-### Installation
+
+1. Events List
+
+Upon signing-in as an Organizer, the organizer is able to view all the events scheduled by the organization
+
+Features of the page:
+* Create new event
+* Compact view of scheduled event details
+* Delete event
+* View details of each event on click
+
+<br/>
+  <img src="Event-list.png" alt="main"/><br><br>
+
+2. Creating a new event
+
+<br/>
+  <img src="CreateEventForm.jpg" alt="main"/><br><br>
+
+
+
+```
+
+### Atendees
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
