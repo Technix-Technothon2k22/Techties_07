@@ -72,6 +72,7 @@ Advantages of the platform:
 * allows organizers keep track of responses
 * Allows for Direct line of Communication between organizers and atendees
 * Atendees can reminded to follow required covid protocols
+* The entire process (registration to verification) is contactless
 
 
 ### Features
