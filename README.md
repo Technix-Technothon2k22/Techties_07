@@ -6,7 +6,7 @@ Covid 19 is here to stay but the number of offline events being organized are in
 <!-- PROJECT LOGO -->
 
 <p align="center">
-<img src="connectnext.png" alt="Logo" width="200" height="80">
+<img src="connectnext.png" alt="Logo" width="250" height="80">
 <p align="center">
   
 
