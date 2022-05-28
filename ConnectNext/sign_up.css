@@ -1,0 +1,51 @@
+  
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+    background-image: url("sign_up-pg-bg2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Montserrat";
+}
+.nav-colour{
+    color: white;
+    /* background-image: linear-gradient(rgb(29, 170, 170), rgb(8, 70, 70)) !important; */
+    background-image:linear-gradient( rgb(75, 80, 212), rgb(35, 28, 168), rgb(14, 8, 96) )!important;
+    /* background-image:linear-gradient(#55bce9,#0c6d97) !important; */
+} 
+
+.bg-color{
+    background-color: white;
+    border-radius: 20px;
+        background-color:linear-gradient( rgb(75, 80, 212), rgb(35, 28, 168), rgb(14, 8, 96) )!important;
+}
+.bg-decor{
+    border-radius: 20px;
+}
+h4{
+    margin-top: 10px;
+}
+h6{
+    margin-bottom: 40px;
+    font-size: 12px;
+    background-color:linear-gradient( rgb(75, 80, 212), rgb(35, 28, 168), rgb(14, 8, 96) )!important;
+}
+.form-container{
+    padding: 30px 40px;
+}
+.label{
+    font-size: 12px;
+    font-weight: 500;
+}
+.form-control{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+    font-size: 9.8px;
+    padding: 10px;
+}
