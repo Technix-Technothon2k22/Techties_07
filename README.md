@@ -15,7 +15,7 @@ Covid 19 is here to stay but the number of offline events being organized are in
   <p align="center">
     Suited for a world post covid
     
-    <br />
+    
     
   </p>
 </p>
