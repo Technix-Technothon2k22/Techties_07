@@ -154,6 +154,17 @@ Features of the page
 <br/>
   <img src="Each-Event-details.png" alt="main"/><br><br>
 ```
+4. Generation of QR code for each atendee
+
+On clicking on the info icon against each atendee, the atendee details, & a scanable QR code is generated
+
+<br/>
+  <img src="QRCodeGenerator.png" alt="main"/><br><br>
+  
+  On scanning the QR code
+  
+<br/>
+  <img src="QRReading.jpeg" alt="main"/><br><br>
 
 ### Atendees
 
