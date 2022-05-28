@@ -175,5 +175,5 @@ on submitting the registration form, the attendees will generate the QR code whi
   On scanning the QR code
   
 <br/>
-  <img src="QRReading.jpeg" alt="main"/><br><br>
+  <img src="QRReading.jpeg" alt="main" width="250" height="550"/><br><br>
 
