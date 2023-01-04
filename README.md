@@ -25,7 +25,7 @@ Since events can prove to be major potential vectors for transmission of the vir
 
 # ConnectNext
 
-ConnectNext is a one stop event management platform for organizers & atendees in a world post covid.
+ConnectNext is a one stop event management platform for organizers & attendees in a world post covid.
 Organizers can create one or multiple events on the platform.
 Atendees on the other hand can view all the events near them & register for them. 
 
@@ -46,8 +46,8 @@ Atendees on the other hand can view all the events near them & register for them
     <li>
       <a href="#navigating-through">Navigating Through</a>
       <ul>
-        <li><a href="#Organizers">Organizers</a></li>
-        <li><a href="#Atendees">Atendees</a></li>
+        <li><a href="#Organizers">Organizer</a></li>
+        <li><a href="#Atendees">Attendee</a></li>
       </ul>
     </li>
     
@@ -59,9 +59,9 @@ Atendees on the other hand can view all the events near them & register for them
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Oranizers can "create an event" on the ConnectNext platform. Atendees can then register for events of their interest.
+Oranizers can "create an event" on the ConnectNext platform. Attendees can then register for events of their interest.
 Organizers can set a "venue capacity" to restrict the form responses & prevent overcrowding.
-Once an antendee registers for an event, they are sent a confirmation mail & a QR Code which is required for entry to the venue. Atendees are prompted to carry a valid ID
+Once an anttendee registers for an event, they are sent a confirmation mail & a QR Code which is required for entry to the venue. Attendees are prompted to carry a valid ID.
 The QR code has the individuals name & details encoded in it & can be read using any basic QR code scanner.
 This simple method can be used to verify people at the time of entry & prevent unauthorized entry.
 
@@ -70,20 +70,20 @@ Advantages of the platform:
 * Prevents unauthorized entry
 * Organizers can easily create multiple events
 * allows organizers keep track of responses
-* Allows for Direct line of Communication between organizers and atendees
-* Atendees can reminded to follow required covid protocols
+* Allows for Direct line of Communication between organizers and attendees
+* Attendees can be reminded to follow required covid protocols
 * The entire process (registration to verification) is contactless
 
 
 ### Features
 
 Some of the major features of the site include
-* QR Code Generator : to verify atendees
+* QR Code Generator : to verify attendees
 * Counter : to set crowd capacity
-* Auto Mail: Mail sent to users on sucessful registration & for QR code
+* Auto Mail: Mail sent to users on successful registration with QR code
 * Easy to use Template for event creation
 * Registration form
-* Sign in/ Sign up pages 
+* Sign in/ Sign up page 
 
 ### Built With
 
@@ -149,14 +149,14 @@ Features of the page
 
 <br/>
   <img src="Each-Event-details.png" alt="main"/><br><br>
-```
 
 
-### Atendees
+
+###  Attendees
 
 1. Registration form
 
-Upon Signing-In, atendees are taken to a registration form to register for an event
+Upon Signing-In, attendees are taken to a registration form to register for an event
 
 Features of the page:
 
@@ -166,7 +166,7 @@ Features of the page:
 <br/>
   <img src="registrationForm.png" alt="main"/><br><br>
 
-2. Generation of QR code for each atendee
+2. Generation of QR code for each attendee
 
 on submitting the registration form, the attendees will generate the QR code which will be needed for entry to the event
 
